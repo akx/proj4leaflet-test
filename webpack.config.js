@@ -3,6 +3,7 @@ module.exports = {
 	output: {
 		path: __dirname,
 		filename: 'bundle.js',
+		pathinfo: true,
 	},
 	module: {
 		rules: [
