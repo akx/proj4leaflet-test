@@ -1,3 +1,4 @@
+import L from 'leaflet';
 require('./webpack-proj4leaflet');
 
 export function EPSG3067() { // eslint-disable-line
